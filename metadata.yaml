@@ -1,0 +1,44 @@
+_repo: The-War-in-the-Air_780
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "The War in the Air, a military science fiction novel by H. G. Wells,\
+  \ written in four months in 1907 and serialised and published in 1908 in The Pall\
+  \ Mall Magazine, is like many of Wells's works notable for its prophetic ideas,\
+  \ images, and concepts—in this case, the use of the aircraft for the purpose of\
+  \ warfare and the coming of World War I. The novel's hero is Bert Smallways, a \"\
+  forward-thinking young man\" and a \"kind of bicycle engineer of the let's-'ave-a-look-at-it\
+  \ and enamel-chipping variety.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '780'
+  wikidata: Q964055
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Air warfare -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: The War in the Air
+url: http://www.gutenberg.org/ebooks/780
+wikipedia:
+- https://fi.wikipedia.org/wiki/Ilmasota_(romaani)
+- https://fr.wikipedia.org/wiki/La_Guerre_dans_les_airs
+- https://pl.wikipedia.org/wiki/Wojna_w_przestworzu
+- https://en.wikipedia.org/wiki/The_War_in_the_Air
+- https://it.wikipedia.org/wiki/La_guerra_nell%27aria
+- https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B9%D0%BD%D0%B0_%D1%83_%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%96
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B5
+- https://ro.wikipedia.org/wiki/R%C4%83zboiul_%C3%AEn_v%C4%83zduh
